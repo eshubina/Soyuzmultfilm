@@ -2,5 +2,4 @@
 Классификации видеороликов по текстовым описаниям для Союзмультфильма (NLP)
 
 
-
-![sojuz](https://github.com/user-attachments/assets/c1ca2c71-0f8f-46cf-9098-8f92fb67098a)
+![bp](https://github.com/user-attachments/assets/cdb321a7-eb87-496a-9b9a-8368ce360b56)
